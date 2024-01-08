@@ -9,6 +9,7 @@ This tutorial outlines the process of retrieving and observing IP addresses of c
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Proton VPN
 
 <h2>Operating Systems Used </h2>
 
