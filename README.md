@@ -5,11 +5,6 @@
 <h1>Proton VPN - Setup and Usage</h1>
 This tutorial outlines the process of retrieving and observing IP addresses of computers in different locations. We will observe our own desktop IP address, then the IP addresses within a Azure virtual machine. We will use Proton VPN to change our IP address and observe the changes. <br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [How To Install Proton VPN with Prerequisites](https://clipchamp.com/watch/owUcTrGNUxf)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
